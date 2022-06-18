@@ -1,0 +1,37 @@
+id: I56806369
+source: https://sakyaresearch.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-19T01:01:35.424215'
+last_modified: '2022-06-19T01:01:35.424229'
+parser: null
+source_metadata:
+  title: Eulogy in praise of Gong dkar Kun dga rnam rgyal (1432-1496), colophon excerpt
+  author: མཁན་ཆེན་ནམ་མཁའ་ཆོས་བཟང་།
+  description: 'Digital version 2.0 {Tibetan}; master xml (completed: 2014-11-06);
+    unrevised, thematic TEI markup'
+  file_info:
+  - 'Language: Tibetan'
+  - 'Coverage: Excerpt/Colophon'
+  - 'Accessible: publicly'
+  responibilities:
+  - Digital edition:ས་སྐྱ་ཞིབ་འཇུག་ཁང་། (src)
+  - Text input:Mathias Fermer (mf)
+  - Editorial process:Mathias Fermer (mf)
+  - TEI Encoding:ས་སྐྱ་ཞིབ་འཇུག་ཁང་།
+  - TEI Markup:Mathias Fermer (mf)
+  - Revisions/Corrections:-
+  text_witnesses: https://sakyaresearch.org/sources/934
+  bases:
+    3f26:
+      title: Eulogy in praise of Gong dkar Kun dga rnam rgyal (1432-1496), colophon
+        excerpt
+      order: 1
+      base_file: 3f26.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
